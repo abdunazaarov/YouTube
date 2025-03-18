@@ -1,0 +1,14 @@
+.container {
+    background: #f9f9f9;
+    padding: 20px 2%;
+    padding-left: 240px; /* Sidebar kengligiga qarab sozlandi */
+    box-sizing: border-box;
+    overflow-x: hidden;
+    transition: padding-left 0.3s;
+}
+
+.large-container {
+    padding-left: 70px; /* Sidebar yopilganda */
+    padding-right: 2%;
+    transition: padding-left 0.3s;
+}
