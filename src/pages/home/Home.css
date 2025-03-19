@@ -12,3 +12,10 @@
     padding-right: 2%;
     transition: padding-left 0.3s;
 }
+
+@media(max-width:900px){
+    .large-container, .container{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
